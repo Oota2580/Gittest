@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/28 11:45:40.000.557,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/02/28 11:45:40.000.647,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:20.000.400,=D:\Source\ControlSys\CodeName.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:46.000.047,=D:\Source\ControlSys\ComSet.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:46.000.347,=D:\Source\ControlSys\CustDM.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:46.000.110,=D:\Source\ControlSys\ControlSys.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:48.000.923,=D:\Source\ControlSys\HighTest.cpp</Transaction>
+    <Transaction>2023/02/28 11:46:48.000.600,=D:\Source\ControlSys\ElName.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:46.000.912,=D:\Source\ControlSys\Main.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:47.000.301,=D:\Source\ControlSys\OETest.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:47.000.088,=D:\Source\ControlSys\MediaAbt.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:49.000.752,=D:\Source\ControlSys\PdaTest.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:53.000.785,=D:\Source\ControlSys\Range.cpp</Transaction>
+    <Transaction>2023/02/28 11:47:56.000.781,=D:\Source\ControlSys\Report.cpp</Transaction>
+    <Transaction>2023/02/28 11:50:17.000.632,=D:\Source\ControlSys\SDatTest.cpp</Transaction>
+    <Transaction>2023/02/28 11:50:21.000.132,=D:\Source\ControlSys\Serch.cpp</Transaction>
+    <Transaction>2023/02/28 11:50:35.000.355,=D:\Source\ControlSys\SetUnit.cpp</Transaction>
+    <Transaction>2023/02/28 11:50:38.000.753,=D:\Source\ControlSys\StdSet.cpp</Transaction>
+    <Transaction>2023/02/28 11:50:41.000.521,=D:\Source\ControlSys\UpDown.cpp</Transaction>
+    <Transaction>2023/02/28 11:51:59.000.286,D:\Source\ControlSys\ControlSysPCH1.h=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/03/27 10:34:15.000.149,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/03/27 10:34:15.000.125,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/22 14:28:18.000.001,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/22 14:28:18.000.110,=C:\Users\Oota\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/04/10 15:58:29.000.291,=D:\Document\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/04/10 15:58:29.000.256,=D:\Document\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/30 15:54:04.876,=D:\Document\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/30 15:54:04.896,=D:\Document\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/30 15:55:16.365,D:\Test\GitTest\Project1PCH1.h=D:\Document\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/30 15:55:16.390,D:\Test\GitTest\Unit2.cpp=D:\Document\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/30 15:55:16.390,D:\Test\GitTest\Unit2.h=D:\Document\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/30 15:55:16.390,D:\Test\GitTest\Unit2.dfm=D:\Document\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/10/30 15:55:16.416,D:\Test\GitTest\Project1.cbproj=D:\Document\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
